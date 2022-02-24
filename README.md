@@ -35,7 +35,8 @@ The Diffie-Hellman algorithm is being used to establish a shared secret that can
 
 > Example: 
 
-``` Step 1: Alice and Bob get public numbers P = 23, G = 9
+``` 
+Step 1: Alice and Bob get public numbers P = 23, G = 9
 
 Step 2: Alice selected a private key a = 4 and
         Bob selected a private key b = 3
