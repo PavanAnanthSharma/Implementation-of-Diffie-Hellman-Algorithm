@@ -26,3 +26,5 @@ The Diffie-Hellman algorithm is being used to establish a shared secret that can
 - P and G are both publicly available numbers. Users (say Alice and Bob) pick private values a and b and they generate a key and exchange it publicly. The opposite person receives the key and that generates a secret key, after which they have the same secret key to encrypt.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
