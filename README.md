@@ -39,7 +39,7 @@ The Diffie-Hellman algorithm is being used to establish a shared secret that can
 Step 1: Alice and Bob get public numbers P = 23, G = 9
 
 Step 2: Alice selected a private key a = 4 and
-        Bob selected a private key b = 3
+        Bob selected a private key b = 3 
 
 Step 3: Alice and Bob compute public values
 Alice:    x =(9^4 mod 23) = (6561 mod 23) = 6
