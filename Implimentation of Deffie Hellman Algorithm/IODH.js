@@ -1,4 +1,4 @@
-<script>
+
 	
 function power(a, b, p)
 {
@@ -37,4 +37,3 @@ document.write("Secret key for the Alice is:" +
 document.write("Secret key for the Bob is:" +
 			kb + "<br>");
 
-</script>
